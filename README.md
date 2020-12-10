@@ -473,5 +473,6 @@ Here are some ideas to get you started:
    * Architecting modern web applications with ASP.NET Core and Azure (downloadable ebook)
      * https://aka.ms/webappebook
    * https:///aka.ms/migrateapps
+   * https://github.com/iot-for-all
    
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
