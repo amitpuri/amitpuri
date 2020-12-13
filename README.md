@@ -476,5 +476,6 @@ Here are some ideas to get you started:
    * https://github.com/iot-for-all
    * https://vnetplanner.chunliu.me
    * https://pycaret.org
+   * https://aspnetcore.readthedocs.io
       
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
