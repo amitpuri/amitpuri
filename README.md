@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - Developer by heart,
 - Architect by profession, 
 - Mentor by passion
-- and [amitpuri.com](http://amitpuri.com) my personal website 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=amitpuri&show_icons=true&theme=radical&count_private=true)
 ![Top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=amitpuri&langs_count=8&show_icons=true&theme=radical&count_private=true&hide=html,css,scss,javascript)
