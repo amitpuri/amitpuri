@@ -477,5 +477,6 @@ Here are some ideas to get you started:
    * https://vnetplanner.chunliu.me
    * https://pycaret.org
    * https://aspnetcore.readthedocs.io
+   * https://sebastianraschka.com/resources.html
       
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
