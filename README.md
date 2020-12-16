@@ -260,6 +260,8 @@ Here are some ideas to get you started:
     * https://docs.microsoft.com/en-us/azure-sphere
   * Deploy Azure IoT Edge on Kubernetes (preview)
     * https://aka.ms/edgek8sdocs
+  * IoT-Curriculum
+    * https://github.com/microsoft/iot-curriculum
   * Azure IoT Edge Hands-on Labs
     * https://labs.iotedge.dev
   * Live Video Analytics on IoT Edge
