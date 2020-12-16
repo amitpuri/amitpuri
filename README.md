@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   * Check out repos 
     * https://github.com/Microsoft
     * https://github.com/SharePoint
-    * https://github.com/PNP
+    * https://github.com/PnP
     * https://github.com/OfficeDev
     * https://github.com/sdras/awesome-actions
     * https://github.com/awesome-lists/awesome-bash
