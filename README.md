@@ -479,5 +479,6 @@ Here are some ideas to get you started:
    * https://pycaret.org
    * https://aspnetcore.readthedocs.io
    * https://sebastianraschka.com/resources.html
+   * https://github.com/mjebrahimi/Awesome-Microservices-NetCore
       
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
