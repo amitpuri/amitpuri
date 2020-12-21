@@ -481,5 +481,7 @@ Here are some ideas to get you started:
    * https://sebastianraschka.com/resources.html
    * https://github.com/mjebrahimi/Awesome-Microservices-NetCore
    * https://github.com/liuhaoyang/butterfly
+   * https://aws-quickstart.github.io/
+     * https://fwd.aws/yewap 
       
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
