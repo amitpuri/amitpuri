@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on <a href="https://www.linkedin.com/in/amitpuriindia/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> and <a href="https://github.com/amitpuri"><img src="https://img.shields.io/github/followers/amitpuri.svg?label=GitHub&style=social" alt="GitHub"></a>   
 - 💬 Ask me about Microsoft Tech, Cloud and Agile
 - 📫 How to reach me: <a href="https://twitter.com/iamamitpuri"><img src="https://img.shields.io/twitter/follow/iamamitpuri?label=Twitter&style=social" alt="Twitter"></a>
-- 😄 Pronouns: techies, geek, nerd, :man: 
+- 😄 Pronouns: techies, geek, nerd :man: 
 - ⚡ Fun fact: all false play here :laughing:
 - Technophile by instinct,
 - Developer by heart,
