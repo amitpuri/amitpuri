@@ -79,6 +79,8 @@ Here are some ideas to get you started:
     * https://github.com/microsoft/Learning-ARM
     * https://olohmann.github.io/azure-hands-on-labs
     * https://azure.github.io/actions/
+  * Azure Arc
+    * https://azurearcjumpstart.io/
   * AWS
     * https://github.com/aws-samples/aws-serverless-workshops
       * https://data-processing.serverlessworkshops.io
