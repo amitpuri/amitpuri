@@ -250,8 +250,9 @@ Here are some ideas to get you started:
     * https://aka.ms/iotcentral-apps
     * https://aka.ms/iotcentral-sphere-git-readme
     * https://aka.ms/iotcentral-latest-more
-  * Continuous patient monitoring app template
-    * https://aka.ms/healthtutorial
+  * Microsoft Cloud for Healthcare
+    * Continuous patient monitoring app template https://aka.ms/healthtutorial
+    * https://aka.ms/cloudforhealthcare
   * Azure IoT Model Repository 
     * https://aka.ms/iotmodelrepo
   * IoT Workshop
