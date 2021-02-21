@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 # My Bookmarks of interest
 # Stay tuned! it's building up each day...
 
+  * I'll fix it later - https://yiming.dev/clipping/2019/03/21/le-blanc's-law-a-k-a-later-equals-never/
   * Virtual Hub
     * https://aka.ms/virtualhub
     * https://aka.ms/virtualhub/microsoftteamsand365platform
