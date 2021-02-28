@@ -118,6 +118,8 @@ Here are some ideas to get you started:
   * Microservices with .NET
     * https://dotnet.microsoft.com/apps/aspnet/microservices
     * https://aka.ms/containerfastmode
+  * A curated list of Open Source projects developed with a microservices architectural style
+    * https://github.com/davidetaibi/Microservices_Project_List 
   * Cloud Native
     * Architecting Cloud Native .NET Applications for Azur https://docs.microsoft.com/dotnet/architecture/cloud-native
     * IBM Garage Cloud Native Bootcamp https://cloudnative101.dev
