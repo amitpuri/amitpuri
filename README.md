@@ -493,5 +493,8 @@ Here are some ideas to get you started:
    * https://github.com/liuhaoyang/butterfly
    * https://aws-quickstart.github.io/
      * https://fwd.aws/yewap 
+   * Smart store
+      * Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution https://github.com/smartstore/SmartStoreNET
+      * Open Source ASP.NET Core Enterprise eCommerce Shopping Cart Solution https://github.com/smartstore/Smartstore
       
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
