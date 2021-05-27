@@ -491,13 +491,14 @@ Here are some ideas to get you started:
    * https://sebastianraschka.com/resources.html
    * https://github.com/mjebrahimi/Awesome-Microservices-NetCore
    * https://github.com/liuhaoyang/butterfly
-   * https://aws-quickstart.github.io/
+   * https://aws-quickstart.github.io
      * https://fwd.aws/yewap 
    * Smart store
       * Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution https://github.com/smartstore/SmartStoreNET
       * Open Source ASP.NET Core Enterprise eCommerce Shopping Cart Solution https://github.com/smartstore/Smartstore
     * https://google.github.io/styleguide
-    * https://testsmells.org/
-    * https://refactoring.com/catalog/
+    * https://testsmells.org
+    * https://refactoring.com/catalog
+    * https://www.thecodebuzz.com
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
