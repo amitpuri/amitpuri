@@ -500,5 +500,6 @@ Here are some ideas to get you started:
     * https://testsmells.org
     * https://refactoring.com/catalog
     * https://www.thecodebuzz.com
+    * https://github.com/David-Summers/Azure-Design
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
