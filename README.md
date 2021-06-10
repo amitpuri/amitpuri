@@ -496,12 +496,12 @@ Here are some ideas to get you started:
    * Smart store
       * Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution https://github.com/smartstore/SmartStoreNET
       * Open Source ASP.NET Core Enterprise eCommerce Shopping Cart Solution https://github.com/smartstore/Smartstore
-    * https://google.github.io/styleguide
-    * https://testsmells.org
-    * https://refactoring.com/catalog
-    * https://www.thecodebuzz.com
-    * https://github.com/David-Summers/Azure-Design
-    * https://aka.ms/apiportal
-    * https://aka.ms/apimlove
+   * https://google.github.io/styleguide
+   * https://testsmells.org
+   * https://refactoring.com/catalog
+   * https://www.thecodebuzz.com
+   * https://github.com/David-Summers/Azure-Design
+   * https://aka.ms/apiportal
+   * https://aka.ms/apimlove
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
