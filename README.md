@@ -40,7 +40,9 @@ Here are some ideas to get you started:
 - and delivering the message via
 [![PowerPoint Badge](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)](https://office.com)
 
-- also, interested in happenings in the stream of Citizen development, on Power Platform and other LCNC Platforms - [![figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/@amitpuri),
+- also, interested in happenings in the stream of Citizen development, on Power Platform and other LCNC Platforms 
+
+[![figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/@amitpuri),
 [![Appian](https://img.shields.io/badge/Appian-2322F0?style=flat-square&logo=Appian&logoColor=white)](https://appian.com),
 [![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=Airtable&logoColor=white)](https://www.airtable.com),
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)](https://www.appsheet.com), <a href="https://www.honeycode.aws/"><img src="https://amitpuri.com/images/honeycode.jpg" alt="honeycode.aws" style="width: 9%;"></a>, <a href="https://www.pmi.org/citizen-developer"><img src="https://amitpuri.com/images/pmi.png" alt="https://www.pmi.org/citizen-developer" style="width: 2%;"> PMI Citizen Development</a>, [Convertigo](https://www.convertigo.com/video-tutorials) etc.
