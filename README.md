@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/amitpuri)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/919989024896/?lang=en)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/amitpuriindia)
+<a href="https://www.credly.com/users/amitpuri/badges"><img src="https://cdn.credly.com/assets/structure/logo-78b59f8114817c758ca965ed8f1a58a76a39b6fd70d031f771a9bbc581fcde65.svg" border="5" width="30"></a>
+
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitpuri&theme=radical&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
