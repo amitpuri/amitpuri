@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/amitpuri)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://amitpuri.medium.com)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/amitpuri)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/919989024896/?lang=en)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/amitpuriindia)
 [![Credly](https://img.shields.io/static/v1?style=flat-squaree&message=Credly&color=FF6B00&logo=Credly&logoColor=FFFFFF&label=)](https://www.credly.com/users/amitpuri/badges)
 
