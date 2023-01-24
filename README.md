@@ -1,11 +1,11 @@
 <!--
 **amitpuri/amitpuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/twitter/follow/iamamitpuri?style=flat-square&label=Twitter&style=social&logoColor=white)](https://twitter.com/iamamitpuri)
 
 Here are some ideas to get you started:
 -->
 
 [![Page views](https://komarev.com/ghpvc/?username=amitpuri&style=flat-square)](https://github.com/amitpuri)
-[![Twitter Badge](https://img.shields.io/twitter/follow/iamamitpuri?style=flat-square&label=Twitter&style=social&logoColor=white)](https://twitter.com/iamamitpuri)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 > Focus on improving yourself and not proving yourself.
