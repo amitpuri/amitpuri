@@ -60,13 +60,16 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitpuri&theme=radical"/>
 </p>
 -->
+<p>
 
-<iframe
-	src="https://amitpuri-ask-me-to-picturize-it.hf.space"
-	frameborder="0"
-	width="850"
-	height="450"
-></iframe>
+<script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/3.27.0/gradio.js"
+></script>
+
+<gradio-app src="https://amitpuri-ask-me-to-picturize-it.hf.space"></gradio-app>
+
+</p>
 
 
 [![ForTheBadge makes-people-smile](https://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://ForTheBadge.com)
