@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 -->
 
 [![Page views](https://komarev.com/ghpvc/?username=amitpuri&style=flat-square)](https://github.com/amitpuri)
+![GitHub followers](https://img.shields.io/github/followers/amitpuri)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 > Focus on improving yourself and not proving yourself.
