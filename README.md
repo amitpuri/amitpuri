@@ -11,8 +11,9 @@ Here are some ideas to get you started:
 ------------------------------------------------------------------------------------------------------------------------------------
 > Focus on improving yourself and not proving yourself.
 ------------------------------------------------------------------------------------------------------------------------------------
-
+------------------------------------------------------------------------------------------------------------------------------------
 Check my Generative AI blog series [https://go.amitpuri.com/gen-ai](https://go.amitpuri.com/gen-ai)
+------------------------------------------------------------------------------------------------------------------------------------
 
 - I'm interested in 
 [![DotNet Badge](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnetfoundation.org),
