@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 > Focus on improving yourself and not proving yourself.
 ------------------------------------------------------------------------------------------------------------------------------------
 
+Check my Generative AI blog series [https://go.amitpuri.com/gen-ai](https://go.amitpuri.com/gen-ai)
+
 - I'm interested in 
 [![DotNet Badge](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnetfoundation.org),
 [![C++ Badge](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org),
@@ -34,14 +36,14 @@ Here are some ideas to get you started:
 [![espressif Badge](https://img.shields.io/badge/espressif-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://www.espressif.com/en),
 [![Raspberry PI Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white)](https://raspberrypi.org)
 
-- or, reading on
+- or reading on
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=flat-square&logo=goodreads&logoColor=white)](https://www.goodreads.com/amitpuriindia),
 [![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=flat-square&logo=ResearchGate&logoColor=white)](https://research.amitpuri.com)
 
 - and delivering the message via
 [![PowerPoint Badge](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)](https://office.com)
 
-- also, interested in happenings around the stream of Citizen development, on Power Platform and other LCNC Platforms -[![figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/@amitpuri),
+- also, interested in happenings around the stream of Citizen development on Power Platform and other LCNC Platforms -[![figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/@amitpuri),
 [![Appian](https://img.shields.io/badge/Appian-2322F0?style=flat-square&logo=Appian&logoColor=white)](https://appian.com),
 [![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=Airtable&logoColor=white)](https://www.airtable.com),
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)](https://www.appsheet.com), <a href="https://www.honeycode.aws/"><img src="https://cdn.amitpuri.com/images/honeycode.jpg" alt="honeycode.aws" style="width: 9%;"></a>, <a href="https://www.pmi.org/citizen-developer"><img src="https://cdn.amitpuri.com/images/pmi.png" alt="https://www.pmi.org/citizen-developer" style="width: 2%;">![PMI Citizen Development](https://img.shields.io/badge/PMI%20Citizen%20Development-9cf)</a>, [![Convertigo](https://img.shields.io/badge/Convertigo-blue)](https://www.convertigo.com/video-tutorials)
