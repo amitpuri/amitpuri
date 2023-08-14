@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 ------------------------------------------------------------------------------------------------------------------------------------
 > Focus on improving yourself and not proving yourself.
 ------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
 Check my Generative AI blog series [https://go.amitpuri.com/gen-ai](https://go.amitpuri.com/gen-ai)
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -39,6 +42,7 @@ Check my Generative AI blog series [https://go.amitpuri.com/gen-ai](https://go.a
 - or reading on
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=flat-square&logo=goodreads&logoColor=white)](https://www.goodreads.com/amitpuriindia),
 [![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=flat-square&logo=ResearchGate&logoColor=white)](https://research.amitpuri.com)
+
 
 - and delivering the message via
 [![PowerPoint Badge](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)](https://office.com)
