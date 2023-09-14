@@ -11,7 +11,9 @@ Here are some ideas to get you started:
 ------------------------------------------------------------------------------------------------------------------------------------
 > Focus on improving yourself and not proving yourself.
 ------------------------------------------------------------------------------------------------------------------------------------
-> Check my Generative AI blog series [https://go.amitpuri.com/gen-ai](https://go.amitpuri.com/gen-ai)
+> Check my blog series
+- [https://go.amitpuri.com/gen-ai](https://go.amitpuri.com/gen-ai)
+- [https://go.amitpuri.com/cloud](https://go.amitpuri.com/cloud)
 ------------------------------------------------------------------------------------------------------------------------------------
 
 - I'm interested in 
