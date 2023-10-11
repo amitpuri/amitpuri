@@ -4,10 +4,6 @@
 
 Here are some ideas to get you started:
 -->
-
-[![Page views](https://komarev.com/ghpvc/?username=amitpuri&style=flat-square)](https://github.com/amitpuri)
-[![GitHub followers](https://img.shields.io/github/followers/amitpuri)](https://github.com/amitpuri?tab=followers)
-
 ------------------------------------------------------------------------------------------------------------------------------------
 > Focus on improving yourself and not proving yourself.
 ------------------------------------------------------------------------------------------------------------------------------------
