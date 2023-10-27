@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 > Check my blog series
 - [https://go.amitpuri.com/gen-ai](https://go.amitpuri.com/gen-ai)
 - [https://go.amitpuri.com/cloud](https://go.amitpuri.com/cloud)
-> Book (available soon)
+> Book (available on Kindle)
 - [https://go.amitpuri.com/book-cd-m365](https://go.amitpuri.com/book-cd-m365)
 ------------------------------------------------------------------------------------------------------------------------------------
 
