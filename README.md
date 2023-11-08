@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - [https://go.amitpuri.com/gen-ai](https://go.amitpuri.com/gen-ai)
 - [https://go.amitpuri.com/cloud](https://go.amitpuri.com/cloud)
 > Book (available on Kindle)
-- [https://go.amitpuri.com/book-cd-m365](https://go.amitpuri.com/book-cd-m365)
+- [https://go.amitpuri.com/cd-m365](https://go.amitpuri.com/cd-m365)
 ------------------------------------------------------------------------------------------------------------------------------------
 
 - I'm interested in 
