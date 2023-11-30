@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 > Book (available on Kindle)
 - [https://go.amitpuri.com/cd-m365](https://go.amitpuri.com/cd-m365)
 ------------------------------------------------------------------------------------------------------------------------------------
+  ![Citizen Development in Microsoft 365 Book Promotion](https://contents.amitpuri.com/assets/images/ebook-cd-m365/Promotion-Microsoft-365-Book-ad.png)
+------------------------------------------------------------------------------------------------------------------------------------
 
 - I'm interested in 
 [![DotNet Badge](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnetfoundation.org),
