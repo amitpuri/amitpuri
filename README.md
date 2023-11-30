@@ -5,6 +5,8 @@
 Here are some ideas to get you started:
 -->
 ------------------------------------------------------------------------------------------------------------------------------------
+  ![Citizen Development in Microsoft 365 Book Promotion](https://contents.amitpuri.com/assets/images/ebook-cd-m365/Promotion-Microsoft-365-Book-ad.png)
+------------------------------------------------------------------------------------------------------------------------------------
 > Focus on improving yourself and not proving yourself.
 ------------------------------------------------------------------------------------------------------------------------------------
 > Check my blog series
@@ -12,8 +14,6 @@ Here are some ideas to get you started:
 - [https://go.amitpuri.com/cloud](https://go.amitpuri.com/cloud)
 > Book (available on Kindle)
 - [https://go.amitpuri.com/cd-m365](https://go.amitpuri.com/cd-m365)
-------------------------------------------------------------------------------------------------------------------------------------
-  ![Citizen Development in Microsoft 365 Book Promotion](https://contents.amitpuri.com/assets/images/ebook-cd-m365/Promotion-Microsoft-365-Book-ad.png)
 ------------------------------------------------------------------------------------------------------------------------------------
 
 - I'm interested in 
