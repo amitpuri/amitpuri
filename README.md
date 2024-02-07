@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 ------------------------------------------------------------------------------------------------------------------------------------
-  [![Citizen Development in Microsoft 365 Book Promotion](https://contents.amitpuri.com/assets/images/ebook-cd-m365/m365-book-promo-banner-01.png)](https://go.amitpuri.com/read-book)
+  [![Citizen Development in Microsoft 365 Book Promotion](https://contents.amitpuri.com/assets/images/ebook-cd-m365/m365-book-promo-banner-01.png)](https://go.citizendeveloper.codes)
 ------------------------------------------------------------------------------------------------------------------------------------
 > Focus on improving yourself and not proving yourself.
 ------------------------------------------------------------------------------------------------------------------------------------
