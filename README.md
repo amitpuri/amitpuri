@@ -9,9 +9,10 @@ Here are some ideas to get you started:
 ------------------------------------------------------------------------------------------------------------------------------------
 > Focus on improving yourself and not proving yourself.
 ------------------------------------------------------------------------------------------------------------------------------------
-> Check my blog series
-- [https://go.amitpuri.com/gen-ai](https://go.amitpuri.com/gen-ai)
-- [https://go.amitpuri.com/cloud](https://go.amitpuri.com/cloud)
+> Check out
+- [Citizen Developer codes](https://go.citizendeveloper.codes)
+- [https://go.amitpuri.com/cloud](https://go.opencloud.codes)
+- [https://go.amitpuri.com/agi](https://go.openagi.codes)
 > Book (available on Kindle)
 - [https://go.amitpuri.com/cd-m365](https://go.amitpuri.com/cd-m365)
 ------------------------------------------------------------------------------------------------------------------------------------
