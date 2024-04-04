@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 ------------------------------------------------------------------------------------------------------------------------------------
 > Check out
 - [Citizen Developer codes](https://go.citizendeveloper.codes)
-- [https://go.amitpuri.com/cloud](https://go.opencloud.codes)
-- [https://go.amitpuri.com/agi](https://go.openagi.codes)
+- [Cloud](https://go.opencloud.codes)
+- [AI](https://go.openagi.codes)
 > Book (available on Kindle)
-- [https://go.amitpuri.com/cd-m365](https://go.amitpuri.com/cd-m365)
+- [Citizen Development in Microsoft 365 with Power Platform](https://go.amitpuri.com/cd-m365)
 ------------------------------------------------------------------------------------------------------------------------------------
 
 - I'm interested in 
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 [![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)](https://www.arduino.cc/),
 [![espressif Badge](https://img.shields.io/badge/espressif-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://www.espressif.com/en),
 [![Raspberry PI Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white)](https://raspberrypi.org)
+
 
 - or reading on
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=flat-square&logo=goodreads&logoColor=white)](https://www.goodreads.com/amitpuriindia),
