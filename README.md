@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - [Cloud](https://go.opencloud.codes)
 - [AI](https://go.openagi.codes)
 > Book (available on Kindle)
-- [Citizen Development in Microsoft 365 with Power Platform](https://go.amitpuri.com/cd-m365)
+- [Citizen Development in Microsoft 365 with Power Platform](https://go.citizendeveloper.codes/buynow)
 ------------------------------------------------------------------------------------------------------------------------------------
 
 - I'm interested in 
