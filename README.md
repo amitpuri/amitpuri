@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 > Book (available on Kindle)
 - [Citizen Development in Microsoft 365 with Power Platform](https://go.citizendeveloper.codes/buynow)
 ------------------------------------------------------------------------------------------------------------------------------------
+  [![Book consultant today](https://contents.citizendeveloper.codes/images/header-brand-wide.gif)](https://bit.ly/topmate-ap)
+------------------------------------------------------------------------------------------------------------------------------------
 
 - I'm interested in 
 [![DotNet Badge](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnetfoundation.org),
