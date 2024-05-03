@@ -5,6 +5,8 @@
 Here are some ideas to get you started:
 -->
 ------------------------------------------------------------------------------------------------------------------------------------
+  [![Book advisory session today](https://contents.citizendeveloper.codes/images/header-brand-wide.gif)](https://bit.ly/topmate-ap)
+------------------------------------------------------------------------------------------------------------------------------------
   [![Citizen Development in Microsoft 365 Book Promotion](https://contents.amitpuri.com/assets/images/ebook-cd-m365/m365-book-promo-banner-01.png)](https://go.citizendeveloper.codes)
 ------------------------------------------------------------------------------------------------------------------------------------
 > Focus on improving yourself and not proving yourself.
@@ -15,8 +17,6 @@ Here are some ideas to get you started:
 - [AI](https://go.openagi.codes)
 > Book (available on Kindle)
 - [Citizen Development in Microsoft 365 with Power Platform](https://go.citizendeveloper.codes/buynow)
-------------------------------------------------------------------------------------------------------------------------------------
-  [![Book consultant today](https://contents.citizendeveloper.codes/images/header-brand-wide.gif)](https://bit.ly/topmate-ap)
 ------------------------------------------------------------------------------------------------------------------------------------
 
 - I'm interested in 
