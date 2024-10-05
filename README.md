@@ -4,6 +4,15 @@
 
 Here are some ideas to get you started:
 -->
+
+I'm a tech enthusiast who is passionate about encouraging others to write clean and better code. 
+
+I am a seasoned technologist with over two decades of experience in driving digital transformation across multiple domains. 
+
+My expertise spans cloud adoption, AI integration, and strategic technology consulting, where I’ve led large-scale projects and provided innovative solutions to global clients. 
+
+I’m passionate about enabling teams to leverage emerging technologies and driving business growth through effective digital strategies.
+
 ------------------------------------------------------------------------------------------------------------------------------------
   [![Book advisory session today](https://contents.citizendeveloper.codes/images/header-brand-wide.gif)](https://bit.ly/topmate-ap)
 ------------------------------------------------------------------------------------------------------------------------------------
