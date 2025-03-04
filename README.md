@@ -22,8 +22,8 @@ I’m passionate about enabling teams to leverage emerging technologies and driv
 ------------------------------------------------------------------------------------------------------------------------------------
 > Check out
 - [Citizen Developer codes](https://go.citizendeveloper.codes)
-- [Cloud](https://go.opencloud.codes)
 - [AI](https://go.openagi.codes)
+- [Cloud](https://go.opencloud.codes)
 > Book (available on Kindle)
 - [Citizen Development in Microsoft 365 with Power Platform](https://go.citizendeveloper.codes/buynow)
 ------------------------------------------------------------------------------------------------------------------------------------
