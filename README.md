@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-I'm a tech enthusiast who is passionate about encouraging others to write clean and better code. 
+I'm a tech enthusiast who is passionate about encouraging others to write clean and better code, though AI assisted to make difference. 
 
 I am a seasoned technologist with over two decades of experience in driving digital transformation across multiple domains. 
 
