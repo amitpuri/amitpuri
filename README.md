@@ -26,6 +26,7 @@ Check it out [https://uithub.com/amitpuri](https://uithub.com/amitpuri)
 - [Citizen Developer codes](https://go.citizendeveloper.codes)
 - [AI](https://go.openagi.codes)
 - [Cloud](https://go.opencloud.codes)
+- [AI News](https://go.opencloud.news)
 > Book (available on Kindle)
 - [Citizen Development in Microsoft 365 with Power Platform](https://go.citizendeveloper.codes/buynow)
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -60,8 +61,6 @@ Check it out [https://uithub.com/amitpuri](https://uithub.com/amitpuri)
 
 - and delivering the message via
 [![PowerPoint Badge](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)](https://office.com)
-
-- also, interested in happenings around the stream of Citizen development on Power Platform and other LCNC Platforms -[![figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/@amitpuri), [![Appian](https://img.shields.io/badge/Appian-2322F0?style=flat-square&logo=Appian&logoColor=white)](https://appian.com), [![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=Airtable&logoColor=white)](https://www.airtable.com), [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)](https://www.appsheet.com), <a href="https://www.pmi.org/citizen-developer"><img src="https://cdn.amitpuri.com/images/pmi.png" alt="https://www.pmi.org/citizen-developer" style="width: 2%;">![PMI Citizen Development](https://img.shields.io/badge/PMI%20Citizen%20Development-9cf)</a>, [![Convertigo](https://img.shields.io/badge/Convertigo-blue)](https://www.convertigo.com/video-tutorials)
 
 -------------------------------------------------------------------------------------------------------
 
