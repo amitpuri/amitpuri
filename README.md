@@ -23,7 +23,6 @@ Check it out [https://uithub.com/amitpuri](https://uithub.com/amitpuri)
 > Focus on improving yourself and not proving yourself.
 ------------------------------------------------------------------------------------------------------------------------------------
 > Check out
-- [AI](https://go.openagi.codes)
 - [AI News](https://go.openagi.news)
 - [Cloud](https://go.opencloud.codes)
 - [Citizen Developer codes](https://go.citizendeveloper.codes)
