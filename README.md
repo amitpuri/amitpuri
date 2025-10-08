@@ -23,10 +23,10 @@ Check it out [https://uithub.com/amitpuri](https://uithub.com/amitpuri)
 > Focus on improving yourself and not proving yourself.
 ------------------------------------------------------------------------------------------------------------------------------------
 > Check out
-- [Citizen Developer codes](https://go.citizendeveloper.codes)
 - [AI](https://go.openagi.codes)
+- [AI News](https://go.openagi.news)
 - [Cloud](https://go.opencloud.codes)
-- [AI News](https://go.opencloud.news)
+- [Citizen Developer codes](https://go.citizendeveloper.codes)
 > Book (available on Kindle)
 - [Citizen Development in Microsoft 365 with Power Platform](https://go.citizendeveloper.codes/buynow)
 ------------------------------------------------------------------------------------------------------------------------------------
