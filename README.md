@@ -13,8 +13,6 @@ My expertise spans cloud adoption, AI integration, and strategic technology cons
 
 I’m passionate about enabling teams to leverage emerging technologies and driving business growth through effective digital strategies.
 
-Check it out [https://uithub.com/amitpuri](https://uithub.com/amitpuri)
-
 ------------------------------------------------------------------------------------------------------------------------------------
   [![Book advisory session today](https://contents.citizendeveloper.codes/images/header-brand-wide.gif)](https://bit.ly/topmate-ap)
 ------------------------------------------------------------------------------------------------------------------------------------
