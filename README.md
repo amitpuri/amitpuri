@@ -64,6 +64,7 @@ I’m passionate about enabling teams to leverage emerging technologies and driv
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://go.amitpuri.com/dev.to)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://go.amitpuri.com/medium)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://go.amitpuri.com/kaggle)
+[![Hugging Badge](https://img.shields.io/badge/huggingface-logo?logo=huggingface&logoColor=white)](https://go.amitpuri.com/hf)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://go.amitpuri.com/linkedin)
 [![Credly](https://img.shields.io/static/v1?style=flat-squaree&message=Credly&color=FF6B00&logo=Credly&logoColor=FFFFFF&label=)](https://go.amitpuri.com/badges)
 
