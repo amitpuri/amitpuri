@@ -5,6 +5,8 @@
 Here are some ideas to get you started:
 -->
 
+In 2026, may your creativity scale like parameters in a neural net, your insights converge like reasoning paths, and your actions embody the initiative of agentic intelligence.
+
 I'm a tech enthusiast who is passionate about encouraging others to write clean and better code, though AI assisted to make difference. 
 
 I am a seasoned technologist with over two decades of experience in driving digital transformation across multiple domains. 
