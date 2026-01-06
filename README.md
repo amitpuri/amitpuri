@@ -29,13 +29,12 @@ I’m passionate about enabling teams to leverage emerging technologies and driv
 > Book (available on Kindle)
 - [Citizen Development in Microsoft 365 with Power Platform](https://go.citizendeveloper.codes/buynow)
 ------------------------------------------------------------------------------------------------------------------------------------
-
-[![OpenAGI banner-1](assets/banner-1.png)](https://openagi.codes)
+[![OpenAGI banner-1](assets/banner-1.png)](https://go.openagi.codes)
 ------------------------------------------------------------------------------------------------------------------------------------
-[![OpenAGI banner-2](assets/banner-2.png)](https://openagi.codes)
+[![OpenAGI banner-2](assets/banner-2.png)](https://go.openagi.codes)
 ------------------------------------------------------------------------------------------------------------------------------------
-[![OpenAGI banner-3](assets/banner-3.png)](https://openagi.codes)
-
+[![OpenAGI banner-3](assets/banner-3.png)](https://go.openagi.codes)
+------------------------------------------------------------------------------------------------------------------------------------
 - I'm interested in 
 [![DotNet Badge](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnetfoundation.org),
 [![C++ Badge](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org),
