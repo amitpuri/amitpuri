@@ -24,10 +24,10 @@ I’m passionate about enabling teams to leverage emerging technologies and driv
 ------------------------------------------------------------------------------------------------------------------------------------
 > Check out
 - [AI News](https://go.openagi.news)
-- [Cloud](https://go.opencloud.codes)
-- [Citizen Developer codes](https://go.citizendeveloper.codes)
+- [Cloud](https://open.amitpuri.com/opencloud.codes/)
+- [Citizen Developer codes](https://open.amitpuri.com/citizendeveloper.codes/)
 > Book (available on Kindle)
-- [Citizen Development in Microsoft 365 with Power Platform](https://go.citizendeveloper.codes/buynow)
+- [Citizen Development in Microsoft 365 with Power Platform](https://go.openagi.codes/buynow)
 ------------------------------------------------------------------------------------------------------------------------------------
 [![OpenAGI banner-1](assets/banner-1.png)](https://go.openagi.codes)
 ------------------------------------------------------------------------------------------------------------------------------------
