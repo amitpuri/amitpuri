@@ -42,7 +42,7 @@ I’m passionate about enabling teams to leverage emerging technologies and driv
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://go.amitpuri.com/linkedin)
 [![Credly](https://img.shields.io/static/v1?style=flat-squaree&message=Credly&color=FF6B00&logo=Credly&logoColor=FFFFFF&label=)](https://go.amitpuri.com/badges)
 
-# 📊 GitHub Stats:
-<div align="center"> <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=amitpuri&bg_color=0A0F0B&color=7FFF00&line=98FF00&point=7FFF00&area=true&hide_border=true"/></div>
+# 📊
+![GitHub Stats](https://ghstats.dev/api/card?username=amitpuri)
 
 ---
