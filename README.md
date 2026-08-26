@@ -43,6 +43,6 @@ I’m passionate about enabling teams to leverage emerging technologies and driv
 [![Credly](https://img.shields.io/static/v1?style=flat-squaree&message=Credly&color=FF6B00&logo=Credly&logoColor=FFFFFF&label=)](https://go.amitpuri.com/badges)
 
 # 📊
-![GitHub Stats](https://ghstats.dev/api/card?username=amitpuri)
+<img src="https://ghstats.dev/api/card?username=amitpuri&theme=radical" alt="GitHub Stats Card" />
 
 ---
