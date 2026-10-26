@@ -17,6 +17,7 @@ I’m passionate about enabling teams to leverage emerging technologies and driv
 
 ------------------------------------------------------------------------------------------------------------------------------------
   [![Open AGI Stack Semantic Intelligence](assets/semantic-intelligence.png)](https://www.openagistack.com/articles/open-agi-stack-semantic-article/)
+  Read more here [https://www.openagistack.com/articles/open-agi-stack-semantic-article/](https://www.openagistack.com/articles/open-agi-stack-semantic-article/)
 ------------------------------------------------------------------------------------------------------------------------------------
   [![Book advisory session today](https://amitpuri.github.io/artifacts/images/header-brand-wide.gif)](https://bit.ly/topmate-ap)
 ------------------------------------------------------------------------------------------------------------------------------------
