@@ -14,7 +14,8 @@ I am a seasoned technologist with over two decades of experience in driving digi
 My expertise spans cloud adoption, AI integration, and strategic technology consulting, where I’ve led large-scale projects and provided innovative solutions to global clients. 
 
 I’m passionate about enabling teams to leverage emerging technologies and driving business growth through effective digital strategies.
-
+------------------------------------------------------------------------------------------------------------------------------------
+  [![Open AGI Stack Semantic Intelligence](assets/semantic-intelligence-semantics.png)](https://www.openagistack.com/articles/open-agi-stack-semantic-article/)
 ------------------------------------------------------------------------------------------------------------------------------------
   [![Open AGI Stack Semantic Intelligence](assets/semantic-intelligence-sensegraph.png)](https://www.openagistack.com/articles/open-agi-stack-semantic-article/)
 ------------------------------------------------------------------------------------------------------------------------------------
