@@ -16,6 +16,8 @@ My expertise spans cloud adoption, AI integration, and strategic technology cons
 I’m passionate about enabling teams to leverage emerging technologies and driving business growth through effective digital strategies.
 
 ------------------------------------------------------------------------------------------------------------------------------------
+  [![Open AGI Stack Semantic Intelligence](assets/semantic-intelligence-sensegraph.png)](https://www.openagistack.com/articles/open-agi-stack-semantic-article/)
+------------------------------------------------------------------------------------------------------------------------------------
   [![Open AGI Stack Semantic Intelligence](assets/semantic-intelligence.png)](https://www.openagistack.com/articles/open-agi-stack-semantic-article/)
   Read [https://www.openagistack.com/articles/open-agi-stack-semantic-article/](https://www.openagistack.com/articles/open-agi-stack-semantic-article/)
 ------------------------------------------------------------------------------------------------------------------------------------
