@@ -26,6 +26,7 @@ I’m passionate about enabling teams to leverage emerging technologies and driv
 *From AI that sounds right to AI that understands.*
 *Give your AI the context your people already carry.*
 
+![Open AGI Stack Semantics](assets/open-agi-stack-semantic-article.png)
 
 ### Start with ready-made ontology starter packs, such as Enterprise Core and Industry related packs like Healthcare Core, written in Turtle or RDF/XML. Then shape them into a semantic intelligence that is fully yours.
 
