@@ -36,7 +36,7 @@ I’m passionate about enabling teams to leverage emerging technologies and driv
 
 </div>
 
-## Overview
+## Semantics
 
 Enterprise AI stalls on **meaning**, not model quality. **Open AGI Stack Semantics** turns human-written policies, glossaries, and schemas into executable semantic intelligence that AI agents can **verify, cite, and run**.
 
@@ -157,7 +157,7 @@ Every concept, rule, and fact pin is versioned. Models can change, but meaning n
 
 ---
 
-## Overview
+## SenseGraph
 
 Natural human language is messy, casual, and ambiguous. **SenseGraph** translates unstructured user queries into grounded, deterministic **knowledge graphs** and **scoped vector retrieval**, so agents can act on meaning rather than surface text.
 
