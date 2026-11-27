@@ -11,7 +11,7 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://go.amitpuri.com/hf)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://go.amitpuri.com/kaggle)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://go.amitpuri.com/badges)
-[![Book Advisory](https://img.shields.io/badge/Topmate-Advisory_Session-00C853?style=for-the-badge&logo=googlemeet&logoColor=white)](https://bit.ly/topmate-ap)
+[![Topmate](https://img.shields.io/badge/Topmate-Advisory-00C853?style=for-the-badge)](https://topmate.io/amitpuri)
 
 <br/>
 
@@ -196,8 +196,7 @@ Kickstart your semantic architecture with standard starter packs in **Turtle (`.
 ### *Citizen Development in Microsoft 365 with Power Platform*
 A practical guide to driving low-code innovation, governance, and scalable digital solutions across enterprise teams.
 
-[![Buy on Amazon Kindle](https://img.shields.io/badge/Amazon_Kindle-Get_the_Book-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://go.openagi.codes/buynow)
-[![Read Overview](https://img.shields.io/badge/Book_Details-Learn_More-blue?style=for-the-badge)](http://go.amitpuri.com/cd)
+📖 **[Get the Book on Amazon Kindle](https://go.openagi.codes/buynow)** · 📘 **[Book Overview & Details](http://go.amitpuri.com/cd)**
 
 <br/>
 
@@ -221,11 +220,11 @@ A practical guide to driving low-code innovation, governance, and scalable digit
 
 <div align="center">
 
-[![Book advisory session today](https://amitpuri.github.io/artifacts/images/header-brand-wide.gif)](https://bit.ly/topmate-ap)
+[![Book advisory session today](https://amitpuri.github.io/artifacts/images/header-brand-wide.gif)](https://topmate.io/amitpuri)
 
 Looking to navigate Enterprise AI integration, semantic knowledge architectures, or cloud transformation strategies?
 
-[![Book a Session](https://img.shields.io/badge/Topmate-Schedule_Advisory_Session-00C853?style=for-the-badge&logo=googlemeet&logoColor=white)](https://bit.ly/topmate-ap)
+👉 **[Schedule an Advisory Session on Topmate](https://topmate.io/amitpuri)**
 
 </div>
 
@@ -306,7 +305,7 @@ Looking to navigate Enterprise AI integration, semantic knowledge architectures,
 
 **Amit Puri** · [Open AGI Stack](https://www.openagistack.com) · Semantic Intelligence for Enterprise AI
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white)](https://go.amitpuri.com/linkedin)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://go.amitpuri.com/linkedin)
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://go.amitpuri.com/dev.to)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://go.amitpuri.com/medium)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://go.amitpuri.com/kaggle)
