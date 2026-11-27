@@ -11,7 +11,7 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://go.amitpuri.com/hf)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://go.amitpuri.com/kaggle)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://go.amitpuri.com/badges)
-[![Topmate](https://img.shields.io/badge/Topmate-Advisory-00C853?style=for-the-badge)](https://topmate.io/amitpuri)
+[![Topmate](assets/topmate-badge.svg)](https://topmate.io/amitpuri)
 
 <br/>
 
